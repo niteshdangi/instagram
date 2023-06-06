@@ -6,7 +6,7 @@
             "https://source.unsplash.com/200x200/?girls,bar",
             "https://source.unsplash.com/200x200/?meme",
         ],
-        "vertical": "https://source.unsplash.com/200x200/?girls-dance",
+        "vertical": "https://source.unsplash.com/200x400/?girls-dance",
     },
     {
         "grid": [
@@ -15,7 +15,7 @@
             "https://source.unsplash.com/200x200/?beach",
             "https://source.unsplash.com/200x200/?mountains,sexy",
         ],
-        "vertical": "https://source.unsplash.com/200x200/?girls,scenery",
+        "vertical": "https://source.unsplash.com/200x400/?girls,scenery",
         "isReverse": true
     },
     {
@@ -23,7 +23,8 @@
             "https://source.unsplash.com/200x200/?girls,mountains",
             "https://source.unsplash.com/200x200/?instagram,post",
         ],
-        "square": "https://source.unsplash.com/200x200/?boys",
+        "square": "https://source.unsplash.com/400x400/?boys",
+        "isReverse": true
     },
     {
         "grid": [
@@ -32,7 +33,7 @@
             "https://source.unsplash.com/200x200/?girls",
             "https://source.unsplash.com/200x200/?womens",
         ],
-        "vertical": "https://source.unsplash.com/200x200/?bike",
+        "vertical": "https://source.unsplash.com/200x400/?bike",
         "isReverse": true
     },
     {
@@ -42,6 +43,6 @@
             "https://source.unsplash.com/200x200/?girls-with-dog",
             "https://source.unsplash.com/200x200/?scene",
         ],
-        "vertical": "https://source.unsplash.com/200x200/?girls-on-beach",
+        "vertical": "https://source.unsplash.com/200x400/?girls-on-beach",
     }
 ]

@@ -1,62 +1,287 @@
 [
         {
-            "username": "johnsmith",
-            "fullName": "John Smith",
-            "followers": 1000,
-            "following": 500,
-            "posts": 150,
-            "bio": "Photographer and adventurer",
-            "location": "San Francisco",
-            "website": "https://www.example.com",
-            "email": "johnsmith@example.com",
-            "phone": "+1 123-456-7890",
-            "dob": "1985-05-15",
-            "joinedDate": "2020-01-01",
-            "isVerified": true
+            "username": "niteshdangi",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,animal,nitesh",
+            "caption": "Some days start better than others.",
+            "posted_at": "2 hours ago",
+            "isLiked": true
         },
         {
-            "username": "jenniferjones",
-            "fullName": "Jennifer Jones",
-            "followers": 2300,
-            "following": 800,
-            "posts": 250,
-            "bio": "Food lover and recipe developer",
-            "location": "New York City",
-            "website": "https://www.example.com",
-            "email": "jenniferjones@example.com",
-            "phone": "+1 987-654-3210",
-            "dob": "1990-08-22",
-            "joinedDate": "2018-03-10",
-            "isVerified": true
+            "username": "ashish",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,scene,ashish",
+            "caption": "Today I will be as useless as the ‘g’ in lasagna.",
+            "posted_at": "4 hours ago",
+            "location": "Haryana"
         },
         {
-            "username": "michaelbrown",
-            "fullName": "Michael Brown",
-            "followers": 560,
-            "following": 300,
-            "posts": 75,
-            "bio": "Fitness enthusiast and personal trainer",
-            "location": "Los Angeles",
-            "website": "https://www.example.com",
-            "email": "michaelbrown@example.com",
-            "phone": "+1 456-789-0123",
-            "dob": "1992-11-03",
-            "joinedDate": "2019-06-20",
-            "isVerified": false
+            "username": "abhinav",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,friends,abhinav",
+            "caption": "Decluttering my life like Marie Kondo.",
+            "posted_at": "29 April",
+            "isSponsored": true
+        },
+        {
+            "username": "shivam",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,shivam",
+            "caption": "Life is simple. It’s just not easy.",
+            "posted_at": "29 April",
+            "location": "Chandigarh"
+        },
+        {
+            "username": "jaat",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,mountains,jaat",
+            "caption": "Life is like a box of chocolates; sometimes you just dig out the good center parts and leave all the undesirable rest to waste.",
+            "posted_at": "1 day ago",
+            "location": "Haryana"
         },
         {
             "username": "emilywilson",
-            "fullName": "Emily Wilson",
-            "followers": 1500,
-            "following": 400,
-            "posts": 180,
-            "bio": "Travel blogger and writer",
-            "location": "London",
-            "website": "https://www.example.com",
-            "email": "emilywilson@example.com",
-            "phone": "+44 20 1234 5678",
-            "dob": "1988-04-10",
-            "joinedDate": "2017-02-05",
-            "isVerified": true
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,cars,wilson",
+            "caption": "There is no such thing as a perfect person, but someone’s heart can have a perfect intention.",
+            "posted_at": "4 day ago",
+            "isSponsored": true
+        },
+        {
+            "username": "johnsmith",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,selfie,johnsmith",
+            "caption": "Throw sass around like confetti.",
+            "posted_at": "1 May",
+            "location": "Delhi"
+        },
+        {
+            "username": "jenniferjones",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,group,jenniferjones",
+            "caption": "Hella heart eyes for you.",
+            "posted_at": "29 April"
+        },
+        {
+            "username": "michaelbrown",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,friends,michaelbrown",
+            "caption": "Decluttering my life like Marie Kondo.",
+            "posted_at": "29 April"
+        },
+        {
+            "username": "emilywilson",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,emilywilson",
+            "caption": "Life is simple. It’s just not easy.",
+            "posted_at": "29 April"
+        },
+        {
+            "username": "niteshdangi",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,animal,nitesh",
+            "caption": "Some days start better than others.",
+            "posted_at": "2 hours ago"
+        },
+        {
+            "username": "ashish",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,scene,ashish",
+            "caption": "Today I will be as useless as the ‘g’ in lasagna.",
+            "posted_at": "4 hours ago",
+            "location": "Haryana"
+        },
+        {
+            "username": "abhinav",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,friends,abhinav",
+            "caption": "Decluttering my life like Marie Kondo.",
+            "posted_at": "29 April",
+            "isSponsored": true
+        },
+        {
+            "username": "shivam",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,shivam",
+            "caption": "Life is simple. It’s just not easy.",
+            "posted_at": "29 April",
+            "location": "Chandigarh"
+        },
+        {
+            "username": "jaat",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,mountains,jaat",
+            "caption": "Life is like a box of chocolates; sometimes you just dig out the good center parts and leave all the undesirable rest to waste.",
+            "posted_at": "1 day ago",
+            "location": "Haryana"
+        },
+        {
+            "username": "abhinav",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,friends,abhinav",
+            "caption": "Decluttering my life like Marie Kondo.",
+            "posted_at": "29 April",
+            "isSponsored": true
+        },
+        {
+            "username": "shivam",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,shivam",
+            "caption": "Life is simple. It’s just not easy.",
+            "posted_at": "29 April",
+            "location": "Chandigarh"
+        },
+        {
+            "username": "jaat",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,mountains,jaat",
+            "caption": "Life is like a box of chocolates; sometimes you just dig out the good center parts and leave all the undesirable rest to waste.",
+            "posted_at": "1 day ago",
+            "location": "Haryana"
+        },
+        {
+            "username": "emilywilson",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,cars,wilson",
+            "caption": "There is no such thing as a perfect person, but someone’s heart can have a perfect intention.",
+            "posted_at": "4 day ago",
+            "isSponsored": true
+        },
+        {
+            "username": "johnsmith",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,selfie,johnsmith",
+            "caption": "Throw sass around like confetti.",
+            "posted_at": "1 May",
+            "location": "Delhi"
+        },
+        {
+            "username": "jenniferjones",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,group,jenniferjones",
+            "caption": "Hella heart eyes for you.",
+            "posted_at": "29 April"
+        },
+        {
+            "username": "emilywilson",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,cars,wilson",
+            "caption": "There is no such thing as a perfect person, but someone’s heart can have a perfect intention.",
+            "posted_at": "4 day ago",
+            "isSponsored": true
+        },
+        {
+            "username": "johnsmith",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,selfie,johnsmith",
+            "caption": "Throw sass around like confetti.",
+            "posted_at": "1 May",
+            "location": "Delhi"
+        },
+        {
+            "username": "jenniferjones",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,group,jenniferjones",
+            "caption": "Hella heart eyes for you.",
+            "posted_at": "29 April"
+        },
+        {
+            "username": "michaelbrown",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,friends,michaelbrown",
+            "caption": "Decluttering my life like Marie Kondo.",
+            "posted_at": "29 April"
+        },
+        {
+            "username": "emilywilson",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,emilywilson",
+            "caption": "Life is simple. It’s just not easy.",
+            "posted_at": "29 April"
+        },
+        {
+            "username": "michaelbrown",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,friends,michaelbrown",
+            "caption": "Decluttering my life like Marie Kondo.",
+            "posted_at": "29 April"
+        },
+        {
+            "username": "emilywilson",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,emilywilson",
+            "caption": "Life is simple. It’s just not easy.",
+            "posted_at": "29 April"
+        },
+        {
+            "username": "michaelbrown",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,friends,michaelbrown",
+            "caption": "Decluttering my life like Marie Kondo.",
+            "posted_at": "29 April"
+        },
+        {
+            "username": "emilywilson",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,emilywilson",
+            "caption": "Life is simple. It’s just not easy.",
+            "posted_at": "29 April"
+        },
+        {
+            "username": "michaelbrown",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,friends,michaelbrown",
+            "caption": "Decluttering my life like Marie Kondo.",
+            "posted_at": "29 April"
+        },
+        {
+            "username": "emilywilson",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,emilywilson",
+            "caption": "Life is simple. It’s just not easy.",
+            "posted_at": "29 April"
+        },
+        {
+            "username": "abhinav",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,friends,abhinav",
+            "caption": "Decluttering my life like Marie Kondo.",
+            "posted_at": "29 April",
+            "isSponsored": true
+        },
+        {
+            "username": "shivam",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,shivam",
+            "caption": "Life is simple. It’s just not easy.",
+            "posted_at": "29 April",
+            "location": "Chandigarh"
+        },
+        {
+            "username": "jaat",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,mountains,jaat",
+            "caption": "Life is like a box of chocolates; sometimes you just dig out the good center parts and leave all the undesirable rest to waste.",
+            "posted_at": "1 day ago",
+            "location": "Haryana"
+        },
+        {
+            "username": "niteshdangi",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,animal,nitesh",
+            "caption": "Some days start better than others.",
+            "posted_at": "2 hours ago"
+        },
+        {
+            "username": "ashish",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,scene,ashish",
+            "caption": "Today I will be as useless as the ‘g’ in lasagna.",
+            "posted_at": "4 hours ago",
+            "location": "Haryana"
+        },
+        {
+            "username": "abhinav",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,friends,abhinav",
+            "caption": "Decluttering my life like Marie Kondo.",
+            "posted_at": "29 April",
+            "isSponsored": true
+        },
+        {
+            "username": "shivam",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,shivam",
+            "caption": "Life is simple. It’s just not easy.",
+            "posted_at": "29 April",
+            "location": "Chandigarh"
+        },
+        {
+            "username": "niteshdangi",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,animal,nitesh",
+            "caption": "Some days start better than others.",
+            "posted_at": "2 hours ago"
+        },
+        {
+            "username": "ashish",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,scene,ashish",
+            "caption": "Today I will be as useless as the ‘g’ in lasagna.",
+            "posted_at": "4 hours ago",
+            "location": "Haryana"
+        },
+        {
+            "username": "abhinav",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,friends,abhinav",
+            "caption": "Decluttering my life like Marie Kondo.",
+            "posted_at": "29 April",
+            "isSponsored": true
+        },
+        {
+            "username": "shivam",
+            "image": "https://source.unsplash.com/500x500/?user,instagram,post,nature,shivam",
+            "caption": "Life is simple. It’s just not easy.",
+            "posted_at": "29 April",
+            "location": "Chandigarh"
         },
     ]

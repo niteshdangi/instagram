@@ -10,7 +10,7 @@
                 "abhinav",
                 "ashish"
             ]
-        }
+        },
         "last_message": {
             "username": "shivam",
             "message": "Sent a reel by ashish",
@@ -58,7 +58,7 @@
                 "abhinav",
                 "ashish"
             ]
-        }
+        },
         "last_message": {
             "username": "shivam",
             "message": "shivam sent a reel by ashish",
@@ -78,31 +78,12 @@
         "unread_count": 0
     },
     {
-        "type": "group",
-        "group_info": {
-            "name": "Flatmates",
-            "image": "https://source.unsplash.com/200x200/?user,profile,flatmates,group",
-            "usernames": [
-                "niteshdangi",
-                "shivam",
-                "abhinav",
-                "ashish"
-            ]
-        }
-        "last_message": {
-            "username": "shivam",
-            "message": "Sent a reel by ashish",
-            "time": "4m"
-        },
-        "unread_count": 4
-    },
-    {
         "type": "user",
         "username": "jaat",
         "last_message": {
             "username": "jaat",
-            "message": "Reacted 😂 to your message",
-            "time": "20m"
+            "message": "Hii",
+            "time": "1m"
         },
         "unread_count": 1
     },
@@ -111,48 +92,31 @@
         "username": "shivam",
         "last_message": {
             "username": "shivam",
-            "message": "Sent a reel by shivam",
-            "time": "1h"
+            "message": "Okay",
+            "time": "2m"
         },
         "unread_count": 0
     },
     {
         "type": "user",
-        "username": "abhinav",
+        "username": "emilywilson",
         "last_message": {
-            "username": "niteshdangi",
-            "message": "Sent a reel by shivam",
-            "time": "1h",
-            "seen": true
-        },
-        "unread_count": 0
-    },
-    {
-        "type": "group",
-        "group_info": {
-            "usernames": [
-                "niteshdangi",
-                "shivam",
-                "abhinav",
-                "ashish"
-            ]
-        }
-        "last_message": {
-            "username": "shivam",
-            "message": "shivam sent a reel by ashish",
-            "time": "4m"
-        },
-        "unread_count": 1
-    },
-    {
-        "type": "user",
-        "username": "ashish",
-        "last_message": {
-            "username": "niteshdangi",
-            "message": "Sent a reel by shivam",
-            "time": "2h",
+            "username": "emilywilson",
+            "message": "Hi",
+            "time": "2m",
             "seen": false
         },
         "unread_count": 0
     },
+    {
+        "type": "user",
+        "username": "emilywilson",
+        "last_message": {
+            "username": "niteshdangi",
+            "message": "Hi",
+            "time": "2m",
+            "seen": false
+        },
+        "unread_count": 0
+    }
 ]

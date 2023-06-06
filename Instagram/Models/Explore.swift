@@ -6,3 +6,11 @@
 //
 
 import Foundation
+
+
+struct Explore: Hashable, Codable {
+    let grid: [String]
+    let vertical: String?
+    let isReverse: Bool?
+    let square: String?
+}
