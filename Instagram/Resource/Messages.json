@@ -1,0 +1,158 @@
+[
+    {
+        "type": "group",
+        "group_info": {
+            "name": "Flatmates",
+            "image": "https://source.unsplash.com/200x200/?user,profile,flatmates,group",
+            "usernames": [
+                "niteshdangi",
+                "shivam",
+                "abhinav",
+                "ashish"
+            ]
+        }
+        "last_message": {
+            "username": "shivam",
+            "message": "Sent a reel by ashish",
+            "time": "4m"
+        },
+        "unread_count": 4
+    },
+    {
+        "type": "user",
+        "username": "jaat",
+        "last_message": {
+            "username": "jaat",
+            "message": "Reacted 😂 to your message",
+            "time": "20m"
+        },
+        "unread_count": 1
+    },
+    {
+        "type": "user",
+        "username": "shivam",
+        "last_message": {
+            "username": "shivam",
+            "message": "Sent a reel by shivam",
+            "time": "1h"
+        },
+        "unread_count": 0
+    },
+    {
+        "type": "user",
+        "username": "abhinav",
+        "last_message": {
+            "username": "niteshdangi",
+            "message": "Sent a reel by shivam",
+            "time": "1h",
+            "seen": true
+        },
+        "unread_count": 0
+    },
+    {
+        "type": "group",
+        "group_info": {
+            "usernames": [
+                "niteshdangi",
+                "shivam",
+                "abhinav",
+                "ashish"
+            ]
+        }
+        "last_message": {
+            "username": "shivam",
+            "message": "shivam sent a reel by ashish",
+            "time": "4m"
+        },
+        "unread_count": 1
+    },
+    {
+        "type": "user",
+        "username": "ashish",
+        "last_message": {
+            "username": "niteshdangi",
+            "message": "Sent a reel by shivam",
+            "time": "2h",
+            "seen": false
+        },
+        "unread_count": 0
+    },
+    {
+        "type": "group",
+        "group_info": {
+            "name": "Flatmates",
+            "image": "https://source.unsplash.com/200x200/?user,profile,flatmates,group",
+            "usernames": [
+                "niteshdangi",
+                "shivam",
+                "abhinav",
+                "ashish"
+            ]
+        }
+        "last_message": {
+            "username": "shivam",
+            "message": "Sent a reel by ashish",
+            "time": "4m"
+        },
+        "unread_count": 4
+    },
+    {
+        "type": "user",
+        "username": "jaat",
+        "last_message": {
+            "username": "jaat",
+            "message": "Reacted 😂 to your message",
+            "time": "20m"
+        },
+        "unread_count": 1
+    },
+    {
+        "type": "user",
+        "username": "shivam",
+        "last_message": {
+            "username": "shivam",
+            "message": "Sent a reel by shivam",
+            "time": "1h"
+        },
+        "unread_count": 0
+    },
+    {
+        "type": "user",
+        "username": "abhinav",
+        "last_message": {
+            "username": "niteshdangi",
+            "message": "Sent a reel by shivam",
+            "time": "1h",
+            "seen": true
+        },
+        "unread_count": 0
+    },
+    {
+        "type": "group",
+        "group_info": {
+            "usernames": [
+                "niteshdangi",
+                "shivam",
+                "abhinav",
+                "ashish"
+            ]
+        }
+        "last_message": {
+            "username": "shivam",
+            "message": "shivam sent a reel by ashish",
+            "time": "4m"
+        },
+        "unread_count": 1
+    },
+    {
+        "type": "user",
+        "username": "ashish",
+        "last_message": {
+            "username": "niteshdangi",
+            "message": "Sent a reel by shivam",
+            "time": "2h",
+            "seen": false
+        },
+        "unread_count": 0
+    },
+]
